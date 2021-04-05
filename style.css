@@ -1,0 +1,23 @@
+body {
+    background-color: burlywood;
+}
+
+.container {
+    margin: auto;
+    width: 50%;
+    height: 50%;
+    display: block;
+
+    
+}
+.waktu {
+    text-align: center;
+    color: darkblue;
+    font-size: 100px;
+}
+.tgl {
+    color:black;
+    text-align: center;
+    padding: 50px;
+    font-size: 25px;
+}  
